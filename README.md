@@ -19,7 +19,7 @@ The goal is to aid waste management and recycling by providing an accurate autom
 - Accurately classify waste materials into predefined categories.
 - Improve waste segregation efficiency for better recycling.
 - Demonstrate CNN-based image classification techniques with augmentation and normalization.
-- Handle dataset imbalance using class weights.
+- Handle dataset imbalance using class weights
 
 ---
 
